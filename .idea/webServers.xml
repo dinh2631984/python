@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="891a4bd3-11df-4827-9bf6-98e81fa75307" name="178">
+        <fileTransfer rootFolder="/opt/pyscripts/ostasks" accessType="SFTP" host="192.168.88.178" port="22" sshConfigId="ea0f2cc8-4a31-43d1-ac25-6fe8429223d3" sshConfig="root@192.168.88.178:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
